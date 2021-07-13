@@ -1,4 +1,7 @@
 # Site wide configuration
+----
+layout: default
+----
 
 title: "My Site"
 description: "This is a description of my awesome site."
