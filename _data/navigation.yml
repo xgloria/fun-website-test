@@ -1,21 +1,21 @@
 # Site navigation links
 
- - title: Jade 001
+- title: Jade 001
   url: /jade-001/
-  excerpt: Sample of a project goal with Jade 001
+  excerpt: Sample of ultimate project goals with Jade 001
   image: 
   
- - title:
-  url:
-  excerpt:
-  image:
+- title: "Defining 'Hindustan'"
+  url: /defining-hindustan/
+  excerpt: Page for analyzing Jade 010 & 011 essays on characteristics and location of 'Hindustan'.
+  image: 
   
- - title:
-  url:
-  excerpt:
-  image:
+- title: Text & Image Collection
+  url: /texts-images-collection/
+  excerpt: Tab for housing all of our static images and texts
+  image: 
   
- - title:
-  url:
-  excerpt:
-  image:
+- title: Heat Maps
+  url: /heat-maps/
+  excerpt: Tab for housing the collection of collated heat maps for all jades in the collection
+  image: 
