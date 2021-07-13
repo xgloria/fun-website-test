@@ -5,3 +5,17 @@
   excerpt: Sample of a project goal with Jade 001
   image: 
   
+- title: Defining 'Hindustan': Jade 010 & 011
+  url: /defining-hindustan/
+  excerpt: Page for analyzing Jade 010 & 011 essays on characteristics and location of 'Hindustan'.
+  image: 
+  
+- title: Jade Text & Image Collection
+  url: /texts-images-collection/
+  excerpt: Tab for housing all of our static images and texts
+  image: 
+  
+- title: Heat Maps
+  url: /heat-maps/
+  excerpt: Tab for housing the collection of collated heat maps for all jades in the collection
+  image: 
