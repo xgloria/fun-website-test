@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Project Description"
+title: "The Chinese Emperor's 'Hindustan' Jades"
 ---
 
 <div class="tiles">
