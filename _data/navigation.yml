@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
+- title: Jade 001
+  url: /jade-001/
+  excerpt: Sample of a project goal with Jade 001
+  image: 
+  
+ - title:
+  url:
+  excerpt:
+  image:
+  
+ - title:
+  url:
+  excerpt:
+  image:
+  
+ - title:
   url:
   excerpt:
   image:
