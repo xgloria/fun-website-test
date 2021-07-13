@@ -1,8 +1,4 @@
 # Site wide configuration
-----
-layout: default
-----
-
 title: "My Site"
 description: "This is a description of my awesome site."
 logo: # 120x120 px default image used for Twitter summary card
