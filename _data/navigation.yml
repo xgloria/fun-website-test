@@ -1,13 +1,13 @@
 # Site navigation links
 
 - title: Jade 001
-  url: /jade-001/
-  excerpt:  <a href="jade-001">Sample of ultimate project goals with Jade 001</a>
+  external_url: /jade-001/
+  excerpt: Sample of ultimate project goals with Jade 001
   image: 
   
 - title: "Defining 'Hindustan'"
   url: /defining-hindustan/
-  excerpt: Page for analyzing Jade 010 & 011 essays on characteristics and location of 'Hindustan'.
+  excerpt: Page for analyzing Jade 010 & 011 essays on characteristics and location of 'Hindustan'
   image: 
   
 - title: Text & Image Collection

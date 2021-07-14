@@ -1,6 +1,7 @@
 <!doctype html>
 
-<a id="jade-001"</a>
+{% if folderitem.external_url %}
+    <li><a href="{{folderitem.external_url}}" target="_blank" rel="noopener">{{folderitem.title}}</a></li>
 ---
 title: Home
 ---
