@@ -1,13 +1,13 @@
 # Site navigation links
 
 - title: Jade 001
-  url: https://sarahrider.github.io/fun-website-test/jade-001/
+  url: /jade-001/
   excerpt: Sample of ultimate project goals with Jade 001
   image: 
   
 - title: Twitter
   url: https://twitter.com/home
-  excerpt: Test for linking tabs to new page
+  excerpt: Test for linking tabs to new page.
   image: 
   
 - title: Text & Image Collection
