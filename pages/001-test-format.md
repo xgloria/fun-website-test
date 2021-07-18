@@ -1,7 +1,7 @@
----
+
 layout: archive
 title: "Testing the MD Page"
----
+
 <p>
 “The Chinese Emperor’s Hindustan Jades” integrates text analysis, mapping, and interactive image
  viewers to visualize eighteenth-century China’s engagement with the Islamic world. The textual
