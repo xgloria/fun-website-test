@@ -5,13 +5,14 @@
   excerpt: Sample of ultimate project goals with Jade 001
   image: 
   
-- title: Twitter
-  url: https://twitter.com/home
-  excerpt: Test for linking tabs to new page.
+- title: Defining Hindustan
+  url: /pages/defining-hindustan.html
+  excerpt: A closer look at Jade010 and 011 to analyze the meaning 
+            and creation of the term 'Hindustan' by Emperor Qianlong
   image: 
   
 - title: Text & Image Collection
-  url: /texts-images-collection/
+  url: pages/texts-images-collection.html/
   excerpt: Tab for housing all of our static images and texts
   image: 
   
