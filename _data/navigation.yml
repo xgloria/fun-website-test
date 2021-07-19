@@ -4,7 +4,10 @@
   url: /pages/jade-001.html
   excerpt: Sample of ultimate project goals with Jade 001
   image: 
-    teaser: 300x200 jade001_teaser_img.gif
+    teaser: 400x250.gif
+    feature: jade001_teaser_img
+    credit: CC-BY-4.0
+    creditlink: https://antiquities.npm.gov.tw/Utensils_Page.aspx?ItemId=51055
   
 - title: Defining Hindustan
   url: /pages/defining-hindustan.html
